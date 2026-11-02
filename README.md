@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Yadushan Thillainathan
-ythillainathan@ucsd.edu
+Yadushan Thillainathan and Acelynn Qiao
